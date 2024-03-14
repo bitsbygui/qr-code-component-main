@@ -22,7 +22,7 @@ Está é a solução para o [QR code component challenge on Frontend Mentor](htt
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Minha Solução: [Veja minha solução](https://github.com/bitsbygui/qr-code-component-main)
 - Site do Desafio: [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## Meu Processo
@@ -38,7 +38,12 @@ Está é a solução para o [QR code component challenge on Frontend Mentor](htt
 
 ### O que eu aprendi
 
-Este projeto me ajudou bastante a aplica meus conhecimentos inicias de HTML5 e CSS3, conseguir utilizar o figma com grande auxiliador para desenvolver toda parte de css, tentei resolver da minha maneira usando flexbox e propriedades simples do css, usei até box-shadow haha, foi bacana o desafio e espero continuar fazendo mais, para aprimorar meus conhecimentos.
+Este projeto me ajudou bastante a aplicar meus conhecimentos iniciais de HTML5 e CSS3. Consegui utilizar o Figma com grande auxílio para desenvolver toda a parte de CSS. Tentei resolver à minha maneira usando flexbox e propriedades simples do CSS. Até usei box-shadow, 😂! Foi bacana o desafio e espero continuar fazendo mais para aprimorar meus conhecimentos.
+
+
+
+
+
 
 ## Autor
 
